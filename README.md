@@ -3,4 +3,4 @@ Webpage for class projects financial modelling.
 
 # Welcome!
 
-**This is italic**
+*This is italic*
